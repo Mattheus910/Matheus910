@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu Perfil do GitHub! 👋
 
-Olá, sou [Matheus Martins], um entusiasta de tecnologia e apaixonado por programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, buscando constantemente aprimorar minhas habilidades em desenvolvimento web.
+Olá, sou Matheus Martins, um entusiasta de tecnologia e apaixonado por programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, buscando constantemente aprimorar minhas habilidades em desenvolvimento web.
 
 ## O que Você Pode Encontrar Aqui
 
