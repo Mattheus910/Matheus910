@@ -1,7 +1,5 @@
 # Bem-vindo ao Meu Perfil do GitHub! 👋
 
-![Matheus](link_para_imagem.jpg)
-
 Olá, sou [Matheus Martins], um entusiasta de tecnologia e apaixonado por programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, buscando constantemente aprimorar minhas habilidades em desenvolvimento web.
 
 ## O que Você Pode Encontrar Aqui
@@ -20,6 +18,6 @@ Olá, sou [Matheus Martins], um entusiasta de tecnologia e apaixonado por progra
 Fique à vontade para explorar meus repositórios, entrar em contato ou colaborar em projetos interessantes. Vamos criar código incrível juntos!
 
 <div align="center">
-  <img src="link_para_outra_imagem.png" alt="Uma imagem de tecnologia">
+  <img src="dev.jpg" alt="Uma imagem de tecnologia">
 </div>
 
