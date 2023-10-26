@@ -12,8 +12,7 @@ Olá, sou Matheus Martins, um entusiasta de tecnologia e apaixonado por programa
 
 ## Contato
 
-- 💼 LinkedIn: [LinkedIn](www.linkedin.com/in/mattheus910)
-- 📧 Email: [Email](matheusmartins910@gmail.com)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/mattheus910/)
 
 Fique à vontade para explorar meus repositórios, entrar em contato ou colaborar em projetos interessantes. Vamos criar código incrível juntos!
 
