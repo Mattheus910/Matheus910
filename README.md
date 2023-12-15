@@ -7,8 +7,11 @@ Olá, sou Matheus Martins, um entusiasta de tecnologia e apaixonado por programa
 - 📚 Projetos e trabalhos relacionados aos meus estudos em tecnologia.
 - 🌱 Código-fonte de projetos pessoais e de aprendizado.
 - 🤝 Colaborações em projetos de código aberto.
-- 🎯 Explorações em linguagens de programação, como JavaScript.
-- 🌐 Interesses pessoais, como [Games, Series e Animes].
+- 🎯 Explorações em linguagens de programação, como JavaScript e Java.
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mattheus910&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattheus910&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contato
 
